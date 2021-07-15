@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MudVJegwpeB6zdHpj6XG7Ioa0G3x6dzDHe7RzjtX+vnbwqkhJr9oBhz4K5MK/ZrzrbErvEFz+oGWR5/F1Ak20A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karch\\Desktop\\samples-main\\core\\getting-started\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karch\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\karch\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

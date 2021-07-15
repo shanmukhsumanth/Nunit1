@@ -1,0 +1,5 @@
+C:\Users\karch\Desktop\samples-main\core\getting-started\unit-testing-using-nunit\obj\Debug\net5.0\unit-testing-using-nunit.csproj.AssemblyReference.cache
+C:\Users\karch\Desktop\samples-main\core\getting-started\unit-testing-using-nunit\obj\Debug\net5.0\unit-testing-using-nunit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karch\Desktop\samples-main\core\getting-started\unit-testing-using-nunit\obj\Debug\net5.0\unit-testing-using-nunit.AssemblyInfoInputs.cache
+C:\Users\karch\Desktop\samples-main\core\getting-started\unit-testing-using-nunit\obj\Debug\net5.0\unit-testing-using-nunit.AssemblyInfo.cs
+C:\Users\karch\Desktop\samples-main\core\getting-started\unit-testing-using-nunit\obj\Debug\net5.0\unit-testing-using-nunit.csproj.CoreCompileInputs.cache

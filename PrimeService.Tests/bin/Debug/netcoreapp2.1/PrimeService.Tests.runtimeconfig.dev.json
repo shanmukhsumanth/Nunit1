@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\karch\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\karch\\.nuget\\packages"
+    ]
+  }
+}

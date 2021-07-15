@@ -1,0 +1,10 @@
+C:\Users\karch\Desktop\samples-main\core\getting-started\unit-testing-using-nunit\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+C:\Users\karch\Desktop\samples-main\core\getting-started\unit-testing-using-nunit\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+C:\Users\karch\Desktop\samples-main\core\getting-started\unit-testing-using-nunit\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+C:\Users\karch\Desktop\samples-main\core\getting-started\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.AssemblyReference.cache
+C:\Users\karch\Desktop\samples-main\core\getting-started\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karch\Desktop\samples-main\core\getting-started\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\karch\Desktop\samples-main\core\getting-started\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+C:\Users\karch\Desktop\samples-main\core\getting-started\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\karch\Desktop\samples-main\core\getting-started\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+C:\Users\karch\Desktop\samples-main\core\getting-started\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
