@@ -1,0 +1,44 @@
+name: .NET
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 5.0.x
+    - name: Restore NuGet packages
+      working-directory: .
+      run: nuget restore unit-testing-using-nunit.sln
+      
+    - name: NUnit
+      run: dotnet new nunit
+      
+    #- name: Restore dependencies 
+     # working-directory: ./core/getting-started/unit-testing-using-nunit/unit-testing-using-nunit.sln
+      #run: dotnet restore
+    - name: Build
+      working-directory: ./
+      run: dotnet build unit-testing-using-nunit.sln
+      
+    - name: add package Microsoft.NET.Test.Sdk
+      run: dotnet add unit-testing-using-nunit.csproj package Microsoft.NET.Test.Sdk --version 16.10.0 
+      
+    - name: add package Nunit3TestAdapter
+      run: dotnet add unit-testing-using-nunit.csproj package Nunit3TestAdapter
+      
+    - name: add package NUnit
+      run: dotnet add unit-testing-using-nunit.csproj package NUnit
+      
+    - name: Test
+      run: dotnet test unit-testing-using-nunit.csproj --no-build --verbosity normal
